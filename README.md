@@ -1,6 +1,6 @@
 # git_1_daw
 
-Comandos utilizados hasta ahora:
+**Comandos utilizados hasta ahora:**
 
 git clone git@github.com:jbenalb/git_1_daw.git
 
@@ -8,7 +8,7 @@ git ini git_1_daw
 
 nano README.md
 
-Comandos utilizados para el ejercicio 
+**Comandos utilizados para el ejercicio:**
 
 git add README.md
 
@@ -30,7 +30,7 @@ git tag v0.1
 
 
 
-Creación de la Tabla
+**Creación de la Tabla**
  NOMBRE| GITHUB |
 |-----------|-----------|
 | Abrahan   | [Enlace a Github Abraham](https://github.com/arodmor789/git_1_daw)   |
@@ -44,7 +44,7 @@ Creación de la Tabla
 
 
 
-Mas comandos utilizados:
+**Mas comandos utilizados:**
 
 git commit -m "subiendo el tag"
 
